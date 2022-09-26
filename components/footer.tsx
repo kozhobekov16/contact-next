@@ -1,0 +1,12 @@
+import React from 'react';
+import {NextPage} from "next";
+
+const Footer: NextPage = () => {
+    return (
+        <div>
+            Footer
+        </div>
+    );
+};
+
+export default Footer;
